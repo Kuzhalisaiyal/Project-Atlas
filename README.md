@@ -32,6 +32,34 @@ Strategic Growth & Governance
 
 ---
 
+## 📌 Current Progress
+
+### ✅ Module 1 – Project Initiation
+- Project Vision
+- Business Problem
+- Project Charter
+- Scope Statement
+
+### ✅ Module 2 – Business Analysis
+- Company Profile
+- SWOT Analysis
+- Stakeholder Analysis
+- Future State Vision
+
+### 🟡 Module 3 – Project Planning (In Progress)
+- ✅ Work Breakdown Structure (WBS)
+- ⏳ Project Milestones
+- ⏳ Project Timeline
+- ⏳ Gantt Chart
+- ⏳ RACI Matrix
+- ⏳ Communication Plan
+- ⏳ Risk Register
+- ⏳ KPI Framework
+
+**Overall Progress:** ~45%
+
+---
+
 ## 📂 Project Structure
 
 ```
