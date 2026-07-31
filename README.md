@@ -46,17 +46,41 @@ Project Atlas
 
 ---
 
+## 📚 Completed Deliverables
+
+### 🟢 Module 1 – Project Initiation
+- ✅ Project Charter
+- ✅ Project Vision
+- ✅ Business Need
+- ✅ SMART Objectives
+- ✅ Project Scope
+- ✅ Success Criteria
+- ✅ Assumptions & Constraints
+- ✅ High-Level Risks
+- ✅ Key Stakeholders
+
+### 🔵 Module 2 – Business Analysis
+- ✅ Company Profile
+- ✅ Current State Assessment
+- ✅ SWOT Analysis
+- ✅ Stakeholder Analysis
+- ✅ Power–Interest Matrix
+- ✅ Future State Vision
+- ✅ Enterprise Transformation Journey
+
+---
+
 ## 📊 Current Progress
 
 | Module | Status |
 |---------|--------|
 | 🟢 Project Initiation | ✅ Complete |
-| 🔵 Business Analysis | 🔄 Documentation in Progress |
-| 🟡 Project Planning | ⏳ Pending |
+| 🔵 Business Analysis | ✅ Complete |
+| 🟡 Project Planning | 🔄 In Progress  |
 | 🟣 Transformation Design | ⏳ Pending |
 | 🟠 Executive Deliverables | ⏳ Pending |
 
-**Overall Progress:** **~32%**
+**Overall Progress:** **~40%**
 
 ---
 
@@ -80,12 +104,15 @@ Project Atlas
 
 Current Milestone:
 
-✅ Module 1 – Project Initiation Completed
+✅ Module 2 – Business Analysis Completed
 
 Current Focus:
 
-📄 Module 2 – Business Analysis Documentation
+📋 Module 3 – Project Planning
+- Work Breakdown Structure (WBS)
+- Timeline
+- Gantt Chart
+- RACI Matrix
 
----
 
 **Author:** Kuzhalisaiyal LS.
